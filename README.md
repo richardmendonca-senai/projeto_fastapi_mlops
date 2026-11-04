@@ -131,4 +131,4 @@ Acesse a interface interativa do Swagger em: **[suspicious link removed]**
 
 ## 7. Links das Evidências de Entrega
 - **Repositório GitHub:** https://github.com/richardmendonca-senai/projeto_fastapi_mlops
-- **Vídeo de Demonstração (Google Drive):** `[Insira aqui o link público do seu vídeo no Google Drive]`
+- **Vídeo de Demonstração (Google Drive):** https://drive.google.com/file/d/1wfEKw23TQ30onKzSsRRvsXuWbcFN85rx/view?usp=sharing
